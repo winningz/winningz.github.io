@@ -1,0 +1,23 @@
+{
+  "name": "winningz.github.io",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "index.js",
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winningz/winningz.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winningz/winningz.github.io/issues"
+  },
+  "homepage": "https://github.com/winningz/winningz.github.io#readme"
+}
+
