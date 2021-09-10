@@ -1,20 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 
  
-function FlexColumnDiv() {
-  return (
-    <div className="flex flex-col">
-      <div className="w-6/12 border-2 border-black">First</div>
-      <div className="w-6/12 border-2 border-black">Second</div>
-      <div className="w-6/12 border-2 border-black">Third</div>
-      <div className="w-6/12 border-2 border-black">Fourth</div>
-      <div className="w-6/12 border-2 border-black">Five</div>
-    </div>
-  );
-}
+// function FlexColumnDiv() {
+//   return (
+//     <div className="flex flex-col">
+//       <div className="w-6/12 border-2 border-black">First</div>
+//       <div className="w-6/12 border-2 border-black">Second</div>
+//       <div className="w-6/12 border-2 border-black">Third</div>
+//       <div className="w-6/12 border-2 border-black">Fourth</div>
+//       <div className="w-6/12 border-2 border-black">Five</div>
+//     </div>
+//   );
+// }
  
 function FlexColumnDiv2() {
   return (
