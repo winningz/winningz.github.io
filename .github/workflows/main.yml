@@ -17,10 +17,10 @@ jobs:
           node-version: "14"
       - name: Install packages
         run: npm install
-      # - name: Test React
-      #   env:
-      #     CI: true
-      #   run: npm test
+      - name: Test React
+        env:
+          CI: true
+        run: npm test
       - name: Build React
         run: npm run build
       - name: Deploy Github page
